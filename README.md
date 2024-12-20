@@ -26,7 +26,7 @@ Antes de comenzar, asegúrate de tener instalados:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/weather-app-ionic-angular.git
+   git clone https://github.com/rocendotejada/weather-app-ionic-angular.git
 
 2. Ve al directorio del proyecto:
 
